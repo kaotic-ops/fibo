@@ -1,2 +1,2 @@
 # fibo
-fibonacii calculatio
+fibonacii calculation
